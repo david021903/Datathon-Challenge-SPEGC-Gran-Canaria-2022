@@ -2,10 +2,11 @@
 Challenge to develop Machine Learning Models to reconogize and denoised marine audios in wich animal sounds are founded like whistles clicks or cetaceans
 
 <h2>Sound Detection and Classification:</h2>
-![image](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/adb9195e-86e5-4bb0-b3ec-51ebd1c825cc)
-![image](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/fb335281-e2fe-4281-bd23-eca4372be1ea)
-![image](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/364a7d22-8240-4cec-983e-02119eb875dc)
-![image](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/20a8c051-2bfa-46cc-9687-af76588b25c0)
+
+![Figure_1_whistle_con_ruido](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/4049d3d0-a22c-4028-8794-e3222fb31afc)
+![Figure_1_con_ruido](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/e0e77de4-0cda-4193-8349-b3859be2f554)
+![Figure_2_whistle_sin_ruido](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/56711062-c32e-479b-97e1-256fa5654601)
+![Figure_2_sin_ruido](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/92c4df5b-dc1b-4417-b55d-a99e68c39bbd)
 
 <h2>Results:</h2>
-![image](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/26181a83-320c-4189-9b29-22e36199eb77)
+![Accuracy](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/8871f5b6-be90-47a9-9ce5-e953b2f202f8)
