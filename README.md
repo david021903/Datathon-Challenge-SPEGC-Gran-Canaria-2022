@@ -9,4 +9,4 @@ Challenge to develop Machine Learning Models to reconogize and denoised marine a
 ![Figure_2_sin_ruido](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/92c4df5b-dc1b-4417-b55d-a99e68c39bbd)
 
 <h2>Results:</h2>
-![Accuracy](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/8871f5b6-be90-47a9-9ce5-e953b2f202f8)
+![Accuracy](https://github.com/david021903/Datathon-Challenge-SPEGC-Gran-Canaria-2022/assets/86127726/a327dfda-f477-4573-a223-9c6fe5caa71c)
